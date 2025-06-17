@@ -4,12 +4,12 @@ using namespace std;
 
 int main()
 {
-  char first,middle,last;
-// store your initials in the variables
-  first='r';
-    middle='j';
-    last='a';
+  char first, middle, last;
+  // store your initials in the variables
+  first = 'r';
+  middle = 'j';
+  last = 'a';
 
-    cout << first << middle << last;
+  cout << first << middle << last << endl;
   return 0;  // Add the semicolon here
 }
